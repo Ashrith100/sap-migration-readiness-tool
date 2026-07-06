@@ -1,0 +1,22 @@
+table,row_number,record_id,field,issue,severity
+customers,5,C1004,customer_name,Missing required field: customer_name,Critical
+customers,6,C1005,customer_id,Duplicate customer_id,High
+customers,7,C1005,customer_id,Duplicate customer_id,High
+customers,4,C1003,company_code,Invalid company code,Critical
+customers,6,C1005,currency,Invalid currency,High
+customers,7,C1005,email,Invalid email format,Medium
+customers,8,C1006,country,Invalid country code,High
+materials,5,M2004,material_description,Missing required field: material_description,Critical
+materials,6,M2005,material_id,Duplicate material_id,High
+materials,7,M2005,material_id,Duplicate material_id,High
+materials,4,M2003,base_uom,Invalid unit of measure,Medium
+materials,6,M2005,material_type,Invalid material type,High
+materials,7,M2005,material_type,Invalid material type,High
+materials,8,M2006,base_uom,Invalid unit of measure,Medium
+vendors,5,V3004,vendor_name,Missing required field: vendor_name,Critical
+vendors,6,V3005,vendor_id,Duplicate vendor_id,High
+vendors,7,V3005,vendor_id,Duplicate vendor_id,High
+vendors,4,V3003,payment_terms,Invalid payment terms,Medium
+vendors,6,V3005,company_code,Invalid company code,Critical
+vendors,7,V3005,company_code,Invalid company code,Critical
+vendors,8,V3006,country,Invalid country code,High

@@ -1,0 +1,8 @@
+vendor_id,vendor_name,company_code,country,payment_terms
+V3001,Logistics Plus,1000,US,NET30
+V3002,Midwest Components,2000,US,NET45
+V3003,Global Freight,3000,GB,IMMEDIATE
+V3004,,1000,CA,NET60
+V3005,Asia Manufacturing,4000,IN,NET30
+V3005,Asia Manufacturing Duplicate,4000,IN,NET30
+V3006,Unknown Supplier,2000,ZZ,DUE_ON_RECEIPT

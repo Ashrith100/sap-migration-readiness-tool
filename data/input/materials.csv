@@ -1,0 +1,8 @@
+material_id,material_description,material_type,base_uom
+M2001,Laptop Stand,FERT,EA
+M2002,Steel Rod,ROH,KG
+M2003,Consulting Service,DIEN,HR
+M2004,,HALB,EA
+M2005,Packaging Box,PACK,EA
+M2005,Packaging Box Duplicate,PACK,EA
+M2006,Liquid Cleaner,FERT,GAL

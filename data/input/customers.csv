@@ -1,0 +1,8 @@
+customer_id,customer_name,company_code,country,currency,email
+C1001,Acme Manufacturing,1000,US,USD,orders@acme.com
+C1002,Northwind Traders,2000,CA,CAD,contact@northwind.ca
+C1003,Blue River Foods,9999,US,USD,sales@blueriver.com
+C1004,,1000,US,USD,missingname@company.com
+C1005,Global Retail,3000,GB,EUR,info@globalretail.com
+C1005,Global Retail Duplicate,3000,GB,GBP,bad-email
+C1006,Metro Supply,2000,XX,USD,metro@supply.com

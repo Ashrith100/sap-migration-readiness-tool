@@ -1,0 +1,13 @@
+SAP Migration Readiness Report
+================================
+
+Overall readiness score: 34.29%
+Total records assessed: 21
+Total exceptions found: 21
+
+Readiness by table:
+- customers: 32.86% (7 exceptions)
+- materials: 42.86% (7 exceptions)
+- vendors: 27.14% (7 exceptions)
+
+Output files created in data/output/

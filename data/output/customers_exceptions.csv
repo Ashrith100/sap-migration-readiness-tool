@@ -1,0 +1,8 @@
+table,row_number,record_id,field,issue,severity
+customers,5,C1004,customer_name,Missing required field: customer_name,Critical
+customers,6,C1005,customer_id,Duplicate customer_id,High
+customers,7,C1005,customer_id,Duplicate customer_id,High
+customers,4,C1003,company_code,Invalid company code,Critical
+customers,6,C1005,currency,Invalid currency,High
+customers,7,C1005,email,Invalid email format,Medium
+customers,8,C1006,country,Invalid country code,High

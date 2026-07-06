@@ -1,0 +1,8 @@
+table,row_number,record_id,field,issue,severity
+materials,5,M2004,material_description,Missing required field: material_description,Critical
+materials,6,M2005,material_id,Duplicate material_id,High
+materials,7,M2005,material_id,Duplicate material_id,High
+materials,4,M2003,base_uom,Invalid unit of measure,Medium
+materials,6,M2005,material_type,Invalid material type,High
+materials,7,M2005,material_type,Invalid material type,High
+materials,8,M2006,base_uom,Invalid unit of measure,Medium

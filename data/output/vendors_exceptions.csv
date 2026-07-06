@@ -1,0 +1,8 @@
+table,row_number,record_id,field,issue,severity
+vendors,5,V3004,vendor_name,Missing required field: vendor_name,Critical
+vendors,6,V3005,vendor_id,Duplicate vendor_id,High
+vendors,7,V3005,vendor_id,Duplicate vendor_id,High
+vendors,4,V3003,payment_terms,Invalid payment terms,Medium
+vendors,6,V3005,company_code,Invalid company code,Critical
+vendors,7,V3005,company_code,Invalid company code,Critical
+vendors,8,V3006,country,Invalid country code,High
