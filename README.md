@@ -50,27 +50,7 @@ sap_migration_readiness_basic/
 └── README.md
 ```
 
-## How to run
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the assessment:
-
-```bash
-python src/main.py
-```
-
-Output files will be created in:
-
-```text
-data/output/
-```
-
-## Output files
+# Output
 
 - `migration_summary.csv`
 - `all_exceptions.csv`
@@ -79,6 +59,8 @@ data/output/
 - `vendors_exceptions.csv`
 - `readiness_report.txt`
 
-## Example resume bullet
+# Description
 
 Built a Python-based SAP migration readiness assessment tool that validated synthetic customer, vendor, and material master data using configurable business rules, generated exception reports, and calculated readiness scores for an SAP ECC to S/4HANA-style migration.
+
+# add ss
