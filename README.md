@@ -63,4 +63,4 @@ sap_migration_readiness_basic/
 
 Built a Python-based SAP migration readiness assessment tool that validated synthetic customer, vendor, and material master data using configurable business rules, generated exception reports, and calculated readiness scores for an SAP ECC to S/4HANA-style migration.
 
-# add ss
+# add screenshots
